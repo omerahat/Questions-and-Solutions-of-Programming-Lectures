@@ -17,6 +17,6 @@ Add explanation (`or reference link`) to your answers. That will help anyone to 
 
 | University           	|  Passed/Failed  	| Questions 	| Answers 	| Your resource for answers. In case you have doubts please contact this person or add them to review your PR. 	|
 |----------------------	|:---------------:	|:---------:	|---------	|--------------------------------------------------------------------------------------------------------------	|
-| Ankara University    	| Passed          	| 10        	| 10      	| @omerahat                                                                                                    	|
+| Ankara University    	| Passed          	| 10        	| 10      	| [@omerahat](github.com/omerahat)                                                                                                    	|
 | Hacettepe University 	| ❗needs updating 	| 42        	| 32      	| @user1                                                                                                       	|
 | Bilkent University   	| Passed          	| 50        	| 50      	| @user2                                                                                                       	|
