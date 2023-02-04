@@ -1,4 +1,8 @@
 # Solitions
+
+English | [Türkçe](https://github.com/omerahat/Solitions/blob/master/readmetr.md)
+
+
 <a id="top-page"></a>
 [![Owner](https://img.shields.io/badge/owner-omerahat-blue)](https://github.com/omerahat)
 
