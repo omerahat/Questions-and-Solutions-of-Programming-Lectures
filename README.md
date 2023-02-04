@@ -23,7 +23,7 @@ Some questions and solutions added:
 
 | University                	|  Passed/Failed  	| Questions 	| Answers 	| Your resource for answers. In case you have doubts please contact this person or add them to review your PR. 	|
 |---------------------------	|:---------------:	|:---------:	|---------	|--------------------------------------------------------------------------------------------------------------	|
-| Ankara University         	| Passed          	| 10        	| 10      	| @omerahat                                                                                                    	|
+| Ankara University         	| Passed          	| 10        	| 10      	| [@omerahat](https://github.com/omerahat)                                                                                                    	|
 | Hacettepe University      	| ❗needs updating 	| 42        	| 32      	| @samedokceci                                                                                                 	|
 | Bilkent University        	| Passed          	| 50        	| 50      	| @user2                                                                                                       	|
 | İstanbul Haliç University 	| ❗needs updating 	| 12        	| 9       	| @hayrunnisabiyikli                                                                                           	|
