@@ -14,9 +14,9 @@ Add explanation (`or reference link`) to your answers. That will help anyone to 
 
 Some questions and solutions added:
 
-  Istanbul Halic University
+  - Istanbul Halic University
   
-  Bilgi University
+  - Bilgi University
 
 
 ### Table of Contents
