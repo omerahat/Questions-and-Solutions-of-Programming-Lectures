@@ -19,7 +19,7 @@ Some questions and solutions added:
   - Bilgi University
 
 
-### Table of Contents
+### Table of Contents 
 
 | University                	|  Passed/Failed  	| Questions 	| Answers 	| Your resource for answers. In case you have doubts please contact this person or add them to review your PR. 	|
 |---------------------------	|:---------------:	|:---------:	|---------	|--------------------------------------------------------------------------------------------------------------	|
