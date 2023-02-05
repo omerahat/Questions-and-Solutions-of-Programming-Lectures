@@ -49,3 +49,6 @@ Some questions and solutions added:
 7. Submit a pull request: On Github, navigate to your forked repository, select your new branch, click the "New pull request" button, and follow the prompts to submit a pull request to the original repository.
 
 8. Fill the form(link gelecek buraya)
+
+cont kısmı kod düzleltilecek
+
