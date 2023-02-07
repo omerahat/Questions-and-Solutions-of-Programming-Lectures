@@ -51,4 +51,4 @@ Some questions and solutions added:
 8. Fill the form(link gelecek buraya)
 
 cont kısmı kod düzleltilecek
-
+ how to kısmı ayarla
