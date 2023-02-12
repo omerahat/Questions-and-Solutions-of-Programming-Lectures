@@ -1,5 +1,5 @@
 
-# Solitions
+# Programlama Derslerinin Soruları ve Çözümleri
 
 [English](https://github.com/omerahat/Solitions/blob/master/README.md) | Türkçe
 
@@ -31,7 +31,7 @@ Eklenen bazı sorular ve çözümler:
 | Bilgi Üniversitesi          	| ❗güncellenmesi gerekiyor 	| 43      	| 19       	| @user5                                                                                                                  	|
 
 
-##Nasıl Katkıda Bulunabilirsiniz
+## Nasıl Katkıda Bulunabilirsiniz
 1. Repository'i Fork Edin: Github'daki repository'e gidin, sağ üst köşedeki "Fork" düğmesine tıklayarak repository'nin kişisel bir kopyasını Github hesabınızda oluşturun.
 
 2. Repository'i Clone Edin: Bir terminal açın ve ``` git clone https://github.com/YOUR-USERNAME/Solitions.git ``` komutunu çalıştırarak forklanmış repository'inizi makinenize klonlayın.
