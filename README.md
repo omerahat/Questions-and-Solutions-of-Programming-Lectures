@@ -36,19 +36,16 @@ Some questions and solutions added:
 
 1. Fork the repository: Go to the repository on Github, click the "Fork" button in the top-right corner to create a personal copy of the repository in your Github account.
 
-2. Clone the repository: Open a terminal and run the command git clone https://github.com/YOUR-USERNAME/Solitions.git to clone your forked repository onto your local machine.
+2. Clone the repository: Open a terminal and run the command  ``` git clone https://github.com/YOUR-USERNAME/Solitions.git ``` to clone your forked repository onto your local machine.
 
-3. Create a new branch: Run the command git checkout -b your-branch-name to create a new branch for your changes.
+3. Create a new branch: Run the command ``` git checkout -b your-branch-name ``` to create a new branch for your changes.
 
-4. Make changes to the README: Open the "README.md" file in a text editor, make the desired changes, save, and close the file.
+4. Stage and commit the changes: Run the command git add README.md to stage the changed file and  ``` git commit -m "your commit message" ``` to commit the changes to the branch.
 
-5. Stage and commit the changes: Run the command git add README.md to stage the changed file and git commit -m "your commit message" to commit the changes to the branch.
+5. Push the changes: Run the command ``` git push origin your-branch-name ``` to push the changes to your forked repository on Github.
 
-6. Push the changes: Run the command git push origin your-branch-name to push the changes to your forked repository on Github.
+6. Submit a pull request: On Github, navigate to your forked repository, select your new branch, click the "New pull request" button, and follow the prompts to submit a pull request to the original repository.
 
-7. Submit a pull request: On Github, navigate to your forked repository, select your new branch, click the "New pull request" button, and follow the prompts to submit a pull request to the original repository.
+7. Fill the [form](https://forms.gle/dpNRq9Da77t7aVeS7)
 
-8. Fill the form(link gelecek buraya)
 
-cont kısmı kod düzleltilecek
- how to kısmı ayarla
