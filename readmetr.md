@@ -29,3 +29,19 @@ Eklenen bazı sorular ve çözümler:
 | Bilkent Üniversitesi        	| Geçti                    	| 50      	| 50       	| @user3                                                                                                                  	|
 | İstanbul Haliç Üniversitesi 	| ❗güncellenmesi gerekiyor 	| 12      	| 9        	| @user4                                                                                                                  	|
 | Bilgi Üniversitesi          	| ❗güncellenmesi gerekiyor 	| 43      	| 19       	| @user5                                                                                                                  	|
+
+
+##Nasıl Katkıda Bulunabilirsiniz
+1. Repository'i Fork Edin: Github'daki repository'e gidin, sağ üst köşedeki "Fork" düğmesine tıklayarak repository'nin kişisel bir kopyasını Github hesabınızda oluşturun.
+
+2. Repository'i Clone Edin: Bir terminal açın ve ``` git clone https://github.com/YOUR-USERNAME/Solitions.git ``` komutunu çalıştırarak forklanmış repository'inizi makinenize klonlayın.
+
+3. Yeni bir branch oluşturun: Değişiklikleriniz için yeni bir branch oluşturmak için ``` git checkout -b your-branch-name ``` komutunu çalıştırın.
+
+4. Değişiklikleri Stage ve Commit Edin: Değiştirilmiş dosyayı stage etmek için ``` git add README.md ``` komutunu çalıştırın ve ``` git commit -m "your commit message" ``` komutunu çalıştırarak değişiklikleri branch'e commit edin.
+
+5. Değişiklikleri Push Edin: Değişikliklerinizi forked repository'nize göndermek için ``` git push origin your-branch-name ``` komutunu çalıştırın.
+
+6. Pull Request Gönderin: Github üzerinde forked repository'nize gidin, yeni branch'inizi seçin, "New pull request" düğmesine tıklayın ve orijinal repository'e pull request göndermek için yönergeleri izleyin.
+
+7. [Form'u](https://forms.gle/dpNRq9Da77t7aVeS7) doldurun.
