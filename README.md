@@ -28,7 +28,7 @@ Some questions and solutions added:
 
 1. Fork the repository: Go to the repository on Github, click the "Fork" button in the top-right corner to create a personal copy of the repository in your Github account.
 
-2. Clone the repository: Open a terminal and run the command  ``` git clone https://github.com/YOUR-USERNAME/Solitions.git ``` to clone your forked repository onto your local machine.
+2. Clone the repository: Open a terminal and run the command  ``` git clone https://github.com/omerahat/Questions-and-Solutions-of-Programming-Lectures.git ``` to clone your forked repository onto your local machine.
 
 3. Create a new branch: Run the command ``` git checkout -b your-branch-name ``` to create a new branch for your changes.
 
