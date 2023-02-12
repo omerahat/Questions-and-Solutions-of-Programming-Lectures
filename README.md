@@ -40,12 +40,13 @@ Some questions and solutions added:
 
 3. Create a new branch: Run the command ``` git checkout -b your-branch-name ``` to create a new branch for your changes.
 
-4. Stage and commit the changes: Run the command git add README.md to stage the changed file and  ``` git commit -m "your commit message" ``` to commit the changes to the branch.
+4. Stage and commit the changes: Run the command ``` git add README.md ``` to stage the changed file and  ``` git commit -m "your commit message" ``` to commit the changes to the branch.
 
 5. Push the changes: Run the command ``` git push origin your-branch-name ``` to push the changes to your forked repository on Github.
 
 6. Submit a pull request: On Github, navigate to your forked repository, select your new branch, click the "New pull request" button, and follow the prompts to submit a pull request to the original repository.
 
 7. Fill the [form](https://forms.gle/dpNRq9Da77t7aVeS7)
+
 
 
