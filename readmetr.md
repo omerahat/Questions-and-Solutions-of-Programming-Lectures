@@ -26,8 +26,7 @@ Eklenen bazı sorular ve çözümler:
 | Ankara Üniversitesi 	| [BLM1001](https://github.com/omerahat/Questions-and-Solutions-of-Programming-Lectures/tree/main/Ankara%20University/BLM1001)                                              	| 10          	| 10           	| [@omerahat](https://github.com/omerahat) 	|
 | Haliç Üniversitesi  	| [CEN121](https://github.com/omerahat/Questions-and-Solutions-of-Programming-Lectures/tree/main/Halic%20Universitesi/CEN121) 	| 8           	| 8            	| [@Nisa210](https://github.com/Nisa210)   	|
 | Bilgi Üniversitesi  	| [CMPE100](https://github.com/omerahat/Questions-and-Solutions-of-Programming-Lectures/tree/main/Bilgi%20Universitesi/CMPE100)                 	| 9           	| 9            	| [@ceydacen](https://github.com/ceydacen) 	|
-
-
+| Hacettepe √úniversitesi 	| [BBM103](https://github.com/omerahat/Questions-and-Solutions-of-Programming-Lectures/tree/main/Hacettepe%20University/BBM103) 	| 17          	| 17           	| [@samedokceci](https://github.com/samedokceci) 	|
 
 
 ## Nasıl Katkıda Bulunabilirsiniz
