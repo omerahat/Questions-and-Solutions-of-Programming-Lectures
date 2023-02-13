@@ -10,7 +10,7 @@
 
 #### Lütfen 🙏
 
-Açıklama (veya referans bağlantısı) cevaplarınıza ekleyin. Bu, herhangi birinin daha iyi anlamadığı kavramlar hakkında daha iyi öğrenmesine yardımcı olacaktır.
+Lütfen cevaplarınıza bir açıklama veya referans bağlantısı ekleyin.. Bu, herhangi birinin daha iyi anlamadığı kavramlar hakkında daha iyi öğrenmesine yardımcı olacaktır.
 
 Yenilikler! 🎉:
 
