@@ -8,7 +8,7 @@ English | [Türkçe](https://github.com/omerahat/Solitions/blob/master/readmetr.
 
 #### PLEASE 🙏
 
-Add explanation (`or reference link`) to your answers. That will help anyone to better learn concepts they might not have a great understanding about.
+Please add an explanation or reference link to your answers. That will help anyone to better learn concepts they might not have a great understanding about.
 
 #### What's New? 🎉:
 
@@ -31,7 +31,7 @@ Some questions and solutions added:
 
 
 
-## How to Contrubute
+## How to Contribute
 
 1. Fork the repository: Go to the repository on Github, click the "Fork" button in the top-right corner to create a personal copy of the repository in your Github account.
 
