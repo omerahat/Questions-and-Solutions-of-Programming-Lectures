@@ -25,9 +25,9 @@ Some questions and solutions added:
 
 | University        	| Course ID                                                                         	| Total Questions 	| Total Answers 	| Contributors                             	|
 |-------------------	|-----------------------------------------------------------------------------------	|-----------------	|---------------	|------------------------------------------	|
-| Ankara University 	| [BLM1001](Ankara University/BLM1001)                                              	| 10              	| 10            	| [@omerahat](https://github.com/omerahat) 	|
-| Halic University  	| [CEN121](Halic Universitesi/CEN121/) 	| 8               	| 8             	| [@Nisa210](https://github.com/Nisa210)   	|
-| Bilgi University  	| [CMPE100](Bilgi Universitesi/CMPE100/)                   	| 9               	| 9             	| [@ceydacen](https://github.com/ceydacen) 	|
+| Ankara University 	| [BLM1001](https://github.com/omerahat/Questions-and-Solutions-of-Programming-Lectures/tree/main/Ankara%20University/BLM1001)                                              	| 10              	| 10            	| [@omerahat](https://github.com/omerahat) 	|
+| Halic University  	| [CEN121](https://github.com/omerahat/Questions-and-Solutions-of-Programming-Lectures/tree/main/Halic%20Universitesi/CEN121) 	| 8               	| 8             	| [@Nisa210](https://github.com/Nisa210)   	|
+| Bilgi University  	| [CMPE100](https://github.com/omerahat/Questions-and-Solutions-of-Programming-Lectures/tree/main/Bilgi%20Universitesi/CMPE100)                   	| 9               	| 9             	| [@ceydacen](https://github.com/ceydacen) 	|
 
 
 
