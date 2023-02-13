@@ -21,6 +21,11 @@ Eklenen bazı sorular ve çözümler:
 - Bilgi Üniversitesi
 
 ### İçindekiler Tablosu
+| Üniversite          	| Ders Kodu                                                                         	| Toplam Soru 	| Toplam Cevap 	| KatkIda Bulunanlar                       	|
+|---------------------	|-----------------------------------------------------------------------------------	|-------------	|--------------	|------------------------------------------	|
+| Ankara Üniversitesi 	| [BLM1001](Ankara University/BLM1001)                                              	| 10          	| 10           	| [@omerahat](https://github.com/omerahat) 	|
+| Haliç Üniversitesi  	| [CEN121](Halic Universitesi/CEN121) 	| 8           	| 8            	| [@Nisa210](https://github.com/Nisa210)   	|
+| Bilgi Üniversitesi  	| [CMPE100](Bilgi Universitesi/CMPE100)                  	| 9           	| 9            	| [@ceydacen](https://github.com/ceydacen) 	|
 
 
 
