@@ -1,0 +1,4 @@
+Emre:Hacettepe University,Computer Engineering
+Kerem:METU,Architecture 
+Leyla:Ankara University,Physics 
+Sami:Bilkent University,Civil Engineering

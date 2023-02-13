@@ -1,0 +1,23 @@
+Message	1
+1498	0	The Road goes ever on and on
+1498	1	Down from the door where it began.
+1498	2	Now far ahead the Road has gone,
+1498	3	And I must follow, if I can,
+1498	4	Pursuing it with eager feet,
+1498	5	Until it joins some larger way
+1498	6	Where many paths and errands meet.
+1498	7	And whither then? I cannot say.
+Message	2
+5181	0	There was plenty of everything left for Frodo.
+5181	1	as well as the books, pictures were left in his possession.
+5181	2	There was, however, no sign nor mention of money or jewellery:
+5181	3	not a penny-piece or a glass bead was given away.
+Message	3
+6220	0	There were many Bagginses and Boffins,
+6220	1	there were various Grubbs, and various Chubbs;
+6220	2	and a selection of Burrowses, Brockhouses and Proudfoots.
+6220	3	Some of these were only connected with Bilbo, and some
+6220	4	of them had hardly ever been in Hobbiton before.
+6220	5	The Sackville-Bagginses were not forgotten
+6220	6	They disliked Bilbo and detested Frodo,
+6220	7	written in golden ink.

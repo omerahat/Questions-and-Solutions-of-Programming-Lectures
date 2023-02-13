@@ -1,0 +1,207 @@
+Battle of Ships Game
+
+Player1’s Move
+
+Round : 1					Grid Size: 10x10
+
+Player1’s Hidden Board		Player2’s Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - -		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - - - - - - - - -
+5 - - - - - - - - - -		5 - - - - - - - - - -
+6 - - - - - - - - - -		6 - - - - - - - - - -
+7 - - - - - - - - - -		7 - - - - - - - - - -
+8 - - - - - - - - - -		8 - - - - - - - - - -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - - - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 5,E
+
+Player2’s Move
+
+Round : 1					Grid Size: 10x10
+
+Player1’s Hidden Board		Player2’s Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - -		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - - - - - - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - - - - - - -		6 - - - - - - - - - -
+7 - - - - - - - - - -		7 - - - - - - - - - -
+8 - - - - - - - - - -		8 - - - - - - - - - -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - - - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 1,J
+
+Player1’s Move
+
+Round : 2					Grid Size: 10x10
+
+Player1’s Hidden Board		Player2’s Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 - - - - - - - - - O		1 - - - - - - - - - -
+2 - - - - - - - - - -		2 - - - - - - - - - -
+3 - - - - - - - - - -		3 - - - - - - - - - -
+4 - - - - - - - - - -		4 - - - - - - - - - -
+5 - - - - - - - - - -		5 - - - - O - - - - -
+6 - - - - - - - - - -		6 - - - - - - - - - -
+7 - - - - - - - - - -		7 - - - - - - - - - -
+8 - - - - - - - - - -		8 - - - - - - - - - -
+9 - - - - - - - - - -		9 - - - - - - - - - -
+10- - - - - - - - - -		10- - - - - - - - - -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 10,G
+
+{…}
+{More rounds continues… The program will print them…}
+{…}
+
+Player1’s Move
+
+Round : 38					Grid Size: 10x10
+
+Player1’s Hidden Board		Player2’s Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - - - O - - X
+4 O - - - - - X O - O		4 X O X - O O O - - -
+5 O O O - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - - O - X - - - - -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 9,B
+
+Player2’s Move
+
+Round : 38					Grid Size: 10x10
+
+Player1’s Hidden Board		Player2’s Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - - - O - - X
+4 O - - - - - X O - O		4 X O X - O O O - - -
+5 O O O - - O - - - O		5 - - - - O O X - - -
+6 - X - X X - O - O -		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - X O - X - - - - -
+10- - - O O - - - O -		10O X O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	- -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 6,C
+
+Player1’s Move
+
+Round : 39					Grid Size: 10x10
+
+Player1’s Hidden Board		Player2’s Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O - - O - O X - O O		1 - - - - - - - - - -
+2 - - O - - - X - O -		2 - - X - - X X O O X
+3 - - - - - O - - - -		3 - - - - - - O - - X
+4 O - - - - - X O - O		4 X O X - O O O - - -
+5 O O O - - O - - - O		5 - - - - O O X - - -
+6 - X X X X - O - O -		6 O - O - - - O O - -
+7 O O - - - - - - - O		7 O - - O - - - - - -
+8 O - - O O O - - O X		8 - - - - - O O X O -
+9 - - - - - - O - - -		9 - - O - X - - - - -
+10- - - O O - - - O -		10O - O O O - O O O -
+
+Carrier		-				Carrier		-
+Battleship	X -				Battleship	- -
+Destroyer	-				Destroyer	-
+Submarine	-				Submarine	-
+Patrol Boat	- - - -			Patrol Boat	- - - -
+
+Enter your move: 3,E
+
+{…}
+{More rounds continues… The program will print them…}
+{…}
+
+Player2’s Move
+
+Round : 83					Grid Size: 10x10
+  
+Player1’s Hidden Board		Player2’s Hidden Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - O O O O O - O X
+2 - O O O - O X O O O		2 - O X X X X X O O X
+3 - X - O X O X X X O		3 - O O O O O O O O X
+4 O X - O X O X O - O		4 X O X - O O O O O O
+5 O O O O X O X O - O		5 - - O - O O X X - X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O O O O X X X O O		7 O X O O - X O O O O
+8 O O - O O O O - O X		8 O - - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O O X O -
+10O X X O O - O - O X		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X -				Battleship	- -
+Destroyer	X				Destroyer	-
+Submarine	X				Submarine	X
+Patrol Boat	X X X X			Patrol Boat	X X - -
+
+Enter your move: 2,E
+
+Player2 Wins!
+
+Final Information
+
+Player1’s Board				Player2’s Board
+  A B C D E F G H I J		  A B C D E F G H I J
+1 O O O O - O X - O O		1 - - O O O O O - O X
+2 - O O O X O X O O O		2 D O X X X X X O O X
+3 - X - O X O X X X O		3 D O O O O O O O O X
+4 O X - O X O X O - O		4 X O X P O O O O O O
+5 O O O O X O X O - O		5 - - O - O O X X B X
+6 - X X X X - O O O O		6 O O O O - - O O O -
+7 O O O O O X X X O O		7 O X O O P X O O O O
+8 O O - O O O O - O X		8 O B - O O O O X O O
+9 - - O - X X O O O X		9 - X O X X O O X O -
+10O X X O O - O - O X		10O X O O O O O O O O
+
+Carrier		X				Carrier		X
+Battleship	X X				Battleship	- -
+Destroyer	X				Destroyer	-
+Submarine	X				Submarine	X
+Patrol Boat	X X X X			Patrol Boat	X X - -
