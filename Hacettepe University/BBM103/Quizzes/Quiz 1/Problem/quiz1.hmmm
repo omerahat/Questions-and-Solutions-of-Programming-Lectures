@@ -1,0 +1,13 @@
+0 read r1 # initial velocity
+1 read r2 # initial position
+2 read r3 # falling time
+3 setn r4 2
+4 setn r5 -10 # gravity constant
+5 mul r5 r5 r3 # gravity * falling time
+6 mul r5 r5 r3 # gravity * falling time * falling time
+7 div r5 r5 r4 # a = gravity * falling time * falling time/2
+8 mul r1 r1 r3 # initial velocity * falling time
+9 add r1 r1 r2 # b = initial velocity * falling time + initial position
+10 add r5 r1 r5 # a + b
+11 write r5
+12 halt

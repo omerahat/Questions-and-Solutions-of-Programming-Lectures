@@ -1,0 +1,34 @@
+Patient Hayriye is recorded.
+Patient Deniz is recorded.
+Patient Ateş is recorded.
+Patient Hayriye has a probability of 33.32% of having breast cancer.
+System suggests Ateş NOT to have the treatment.
+Patient Toprak is recorded.
+Patient Hypatia is recorded.
+System suggests Hypatia to have the treatment.
+Patient Pakiz is recorded.
+Patient	Diagnosis	Disease			Disease		Treatment		Treatment
+Name	Accuracy	Name			Incidence	Name			Risk
+-------------------------------------------------------------------------
+Hayriye	99.90%		Breast Cancer	50/100000	Surgery			40%
+Deniz	99.99%		Lung Cancer		40/100000	Radiotherapy	50%
+Ateş	99.00%		Thyroid Cancer	16/100000	Chemotherapy	2%
+Toprak	98.00%		Prostate Cancer	21/100000	Hormonotherapy	20%
+Hypatia	99.75%		Stomach Cancer	15/100000	Immunotherapy	4%
+Pakiz	99.97%		Colon Cancer	14/100000	Targeted Therapy30%
+Patient Ateş is removed.
+Probability for Ateş cannot be calculated due to absence.
+Recommendation for Su cannot be calculated due to absence.
+Patient Su is recorded.
+System suggests Su NOT to have the treatment.
+Patient	Diagnosis	Disease			Disease		Treatment		Treatment
+Name	Accuracy	Name			Incidence	Name			Risk
+-------------------------------------------------------------------------
+Hayriye	99.90%		Breast Cancer	50/100000	Surgery			40%
+Deniz	99.99%		Lung Cancer		40/100000	Radiotherapy	50%
+Toprak	98.00%		Prostate Cancer	21/100000	Hormonotherapy	20%
+Hypatia	99.75%		Stomach Cancer	15/100000	Immunotherapy	4%
+Pakiz	99.97%		Colon Cancer	14/100000	Targeted Therapy30%
+Su		98.00%		Breast Cancer	50/100000	Chemotherapy	20%
+Patient Deniz has a probability of 80% of having lung cancer.
+Patient Pakiz has a probability of 31.81% of having colon cancer.

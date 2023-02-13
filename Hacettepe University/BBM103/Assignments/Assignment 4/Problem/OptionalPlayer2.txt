@@ -1,0 +1,6 @@
+B1:5,G;right;
+B2:7,B;down;
+P1:4,C;right;
+P2:7,E;right;
+P3:9,D;right;
+P4:8,H;down;

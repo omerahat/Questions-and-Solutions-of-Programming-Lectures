@@ -1,0 +1,8 @@
+Patient Name;Diagnosis Accuracy;Disease Name;Disease Incidence Numerator;Disease Incidence Denominator;Treatment Name;Treatment Risk;Probability;Suggestion
+Hayriye;99.90%;Breast Cancer;50;100000;Surgery;40%;33.32%;0
+Deniz;99.99%;Lung Cancer;40;100000;Radiotherapy;50%;80%;1
+Ateş;99.00%;Thyroid Cancer;16;100000;Chemotherapy;2%;1.56%;0
+Toprak;98.00%;Prostate Cancer;21;100000;Hormonotherapy;20%;1.02%;0
+Hypatia;99.75%;Stomach Cancer;15;100000;Immunotherapy;4%;5.65%;1
+Pakiz;99.97%;Colon Cancer;14;100000;Targeted Therapy;30%;31.81%;1
+Su;98.00%;Breast Cancer;50;100000;Chemotherapy;20%;%2,39;0
