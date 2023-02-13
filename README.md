@@ -1,4 +1,4 @@
-# Questions and Solitions of Programming Lectures
+# Questions and Solutions of Programming Lectures
 
 English | [Türkçe](https://github.com/omerahat/Solitions/blob/master/readmetr.md)
 
