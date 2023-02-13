@@ -37,11 +37,11 @@ Some questions and solutions added:
 
 2. Clone the repository: Open a terminal and run the command  ``` git clone https://github.com/omerahat/Questions-and-Solutions-of-Programming-Lectures.git ``` to clone your forked repository onto your local machine.
 
-3. Create a new branch: Run the command ``` git checkout -b your-branch-name ``` to create a new branch for your changes.
+3. Create a new branch: Run the command ``` git checkout -b main ``` to create a new branch for your changes.
 
 4. Stage and commit the changes: Run the command ``` git add README.md ``` to stage the changed file and  ``` git commit -m "your commit message" ``` to commit the changes to the branch.
 
-5. Push the changes: Run the command ``` git push origin your-branch-name ``` to push the changes to your forked repository on Github.
+5. Push the changes: Run the command ``` git push origin main ``` to push the changes to your forked repository on Github.
 
 6. Submit a pull request: On Github, navigate to your forked repository, select your new branch, click the "New pull request" button, and follow the prompts to submit a pull request to the original repository.
 
