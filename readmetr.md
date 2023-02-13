@@ -35,11 +35,11 @@ Eklenen bazı sorular ve çözümler:
 
 2. Repository'i Clone Edin: Bir terminal açın ve ``` [git clone https://github.com/omerahat/Questions-and-Solutions-of-Programming-Lectures.git ``` komutunu çalıştırarak forklanmış repository'inizi makinenize klonlayın.
 
-3. Yeni bir branch oluşturun: Değişiklikleriniz için yeni bir branch oluşturmak için ``` git checkout -b your-branch-name ``` komutunu çalıştırın.
+3. Yeni bir branch oluşturun: Değişiklikleriniz için yeni bir branch oluşturmak için ``` git checkout -b main ``` komutunu çalıştırın.
 
 4. Değişiklikleri Stage ve Commit Edin: Değiştirilmiş dosyayı stage etmek için ``` git add README.md ``` komutunu çalıştırın ve ``` git commit -m "your commit message" ``` komutunu çalıştırarak değişiklikleri branch'e commit edin.
 
-5. Değişiklikleri Push Edin: Değişikliklerinizi forked repository'nize göndermek için ``` git push origin your-branch-name ``` komutunu çalıştırın.
+5. Değişiklikleri Push Edin: Değişikliklerinizi forked repository'nize göndermek için ``` git push origin main ``` komutunu çalıştırın.
 
 6. Pull Request Gönderin: Github üzerinde forked repository'nize gidin, yeni branch'inizi seçin, "New pull request" düğmesine tıklayın ve orijinal repository'e pull request göndermek için yönergeleri izleyin.
 
