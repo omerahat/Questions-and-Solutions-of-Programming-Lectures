@@ -5,8 +5,8 @@
 
 
 <a id="top-page"></a>
-[![Owner](https://img.shields.io/badge/owner-omerahat-blue)](https://github.com/omerahat)
-
+[![Owner](https://img.shields.io/badge/owner-omerahat-red)](https://github.com/omerahat)
+[![iletisim](https://img.shields.io/badge/iletisim-linkedin-blue)](https://www.linkedin.com/in/%C3%B6mer-ahat-87807317a/)
 
 #### Lütfen 🙏
 
