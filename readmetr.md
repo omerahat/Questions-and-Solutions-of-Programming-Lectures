@@ -8,7 +8,7 @@
 [![Owner](https://img.shields.io/badge/owner-omerahat-blue)](https://github.com/omerahat)
 
 
-#### Lütfen🙏
+#### Lütfen 🙏
 
 Açıklama (veya referans bağlantısı) cevaplarınıza ekleyin. Bu, herhangi birinin daha iyi anlamadığı kavramlar hakkında daha iyi öğrenmesine yardımcı olacaktır.
 
