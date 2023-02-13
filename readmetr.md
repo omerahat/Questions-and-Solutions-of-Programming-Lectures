@@ -28,7 +28,7 @@ Eklenen bazı sorular ve çözümler:
 ## Nasıl Katkıda Bulunabilirsiniz
 1. Repository'i Fork Edin: Github'daki repository'e gidin, sağ üst köşedeki "Fork" düğmesine tıklayarak repository'nin kişisel bir kopyasını Github hesabınızda oluşturun.
 
-2. Repository'i Clone Edin: Bir terminal açın ve ``` git clone https://github.com/YOUR-USERNAME/Solitions.git ``` komutunu çalıştırarak forklanmış repository'inizi makinenize klonlayın.
+2. Repository'i Clone Edin: Bir terminal açın ve ``` [git clone https://github.com/omerahat/Questions-and-Solutions-of-Programming-Lectures.git ``` komutunu çalıştırarak forklanmış repository'inizi makinenize klonlayın.
 
 3. Yeni bir branch oluşturun: Değişiklikleriniz için yeni bir branch oluşturmak için ``` git checkout -b your-branch-name ``` komutunu çalıştırın.
 
