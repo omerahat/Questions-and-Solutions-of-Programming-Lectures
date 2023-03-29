@@ -17,3 +17,13 @@ int main(){
 
     return 0;
 }
+
+void bubleSort(int *array, const int size){
+
+    int pass, j;
+    for (pass=0; pass<size-1; pass++)
+        for (j=0; j<size-1; j++)
+            if(array[j] > array[j+1])
+
+    swap(&array[j], &array[j+1]);
+}
