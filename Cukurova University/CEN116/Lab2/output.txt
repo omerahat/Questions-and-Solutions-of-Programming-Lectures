@@ -1,0 +1,2 @@
+## Array in ascending order:
+## 2  4  5  9 18 27 45 68 79 93
