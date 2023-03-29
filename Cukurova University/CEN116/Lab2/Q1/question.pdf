@@ -1,0 +1,14 @@
+~~Bubble Sort Using Pass-by-Reference~~
+
+■ Let’s write a bubble sort program using two functions - bubbleSort and swap.
+
+■ Function bubbleSort sorts the array.
+
+■ It calls function swap to exchange the array elements array[j] and array[j + 1]
+
+■ Remember that C enforces information hiding between functions, so swap does not have access
+to individual array elements in bubbleSort.
+
+■ Because bubbleSort wants swap to have access to the array elements to be swapped, 
+bubbleSort passes each of these elements by reference to swap—the address of each array
+element is passed explicitly.
