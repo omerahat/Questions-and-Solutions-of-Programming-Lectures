@@ -26,4 +26,13 @@ void bubleSort(int *array, const int size){
             if(array[j] > array[j+1])
 
     swap(&array[j], &array[j+1]);
+
+}
+
+void swap(int *ptr1, int *ptr2){
+
+    int temp = *ptr1;
+    *ptr1 = *ptr2;
+    *ptr2 = temp;
+
 }
