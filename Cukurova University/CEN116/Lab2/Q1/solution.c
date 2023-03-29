@@ -11,9 +11,13 @@ int main(){
     printf("Array in original order:\n");
 
     for (i=0; i<SIZE; i++)
-        printf("%4d", array[i]);
+        printf("%3d", array[i]);
 
     bubleSort(array, SIZE);
+    printf("\nArray in ascending order:\n");
+
+    for (i=0; i<SIZE; i++)
+        printf("%3d", array[i]);
 
     return 0;
 }
