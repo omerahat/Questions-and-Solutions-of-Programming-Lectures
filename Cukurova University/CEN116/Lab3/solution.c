@@ -1,8 +1,8 @@
 #include <stdio.h>
 void swap(int *a, int *b);
 int ascending(int a, int b);
-int descending(int a, int b); 
-void bubble(int a[], int size, int (*myFun)(int a, int b)); 
+int descending(int a, int b);
+void bubble(int work[], int size, int (*compare)(int a, int b)); 
 
 int main(void) { 
 
@@ -47,16 +47,16 @@ int descending(int a, int b) {
     return a < b; 
 } 
 
-void bubble(int a[], int size, int (*myFun)(int a, int b)) { 
+void bubble(int work[], int size, int (*compare)(int a, int b)) { 
     
-    int i, pass; 
+    int count, pass; 
 
     for (pass = 0; pass < size - 1; pass++) { 
 
-        for (i = 0; i < size - 1; i++){
+        for (count = 0; count < size - 1; count++){
 
-            if ((*myFun)(a[i], a[i + 1])) 
-                swap(&a[i], &a[i + 1]);
+            if ((*compare)(work[count], work[count + 1])) 
+                swap(&work[count], &work[count + 1]);
 
         }
 
