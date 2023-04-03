@@ -15,7 +15,7 @@ int main(void) {
 		printf("%4d", array[i]); 
 	} 
 
-	printf( "\nEnter 1 to sort in ascending order,\nEnter 2 to sort in descending order,\n"); 
+	printf( "\nEnter 1 to sort in ascending order, 2 to sort in descending order: "); 
     scanf("%d", &order); 
     
     if (order == 1) 
