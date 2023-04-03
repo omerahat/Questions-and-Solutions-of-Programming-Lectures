@@ -6,7 +6,7 @@ void bubble(int a[], int size, int (*myFun)(int a, int b));
 
 int main(void) { 
 
-	int array[] = {6, 4, 8, 16, 10, 14, 12, 2, 18, 20}; 
+	int array[] = {3, 27, 18, 12, 9, 15, 6, 30, 24, 21}; 
 	int i, order; 
 
 	printf("Array in original order:\n"); 
