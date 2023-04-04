@@ -1,0 +1,2 @@
+Array in original order:
+    3, 27, 18, 12, 9, 15, 6, 30, 24, 21
