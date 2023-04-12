@@ -17,3 +17,13 @@ int main(void){
 
     return 0;
 }
+
+int isupper(char ch){
+
+    if(ch >= 'A' && ch <= 'Z')
+        return 1;
+
+    else 
+        return 0;
+
+}
