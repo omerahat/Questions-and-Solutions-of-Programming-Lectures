@@ -7,6 +7,7 @@ int main(void){
 
     char ch;
     printf("Please enter a character: ");
+    
     ch = getchar();
 
     if(isupper(ch))
