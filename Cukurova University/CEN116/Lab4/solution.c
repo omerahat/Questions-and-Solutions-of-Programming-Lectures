@@ -6,6 +6,7 @@ int islower(char ch);
 int main(void){
 
     char ch;
+    
     printf("Please enter a character: ");
     
     ch = getchar();
