@@ -29,7 +29,7 @@ Some questions and solutions added:
 | Halic University     	| [CEN121](https://github.com/omerahat/Questions-and-Solutions-of-Programming-Lectures/tree/main/Halic%20Universitesi/CEN121)   	| 8               	| 8             	| [@Nisa210](https://github.com/Nisa210)         	|
 | Bilgi University     	| [CMPE100](https://github.com/omerahat/Questions-and-Solutions-of-Programming-Lectures/tree/main/Bilgi%20Universitesi/CMPE100) 	| 9               	| 9             	| [@ceydacen](https://github.com/ceydacen)       	|
 | Hacettepe University 	| [BBM103](https://github.com/omerahat/Questions-and-Solutions-of-Programming-Lectures/tree/main/Hacettepe%20University/BBM103) 	| 17              	| 17            	| [@samedokceci](https://github.com/samedokceci) 	|
-| Cukurova University  | [CEN116](https://github.com/Berkantagur/Questions-and-Solutions-of-Programming-Lectures/tree/main/Cukurova%20University/CEN116) | 2               | 2             | [@Berkantagur](https://github.com/Berkantagur) || Cukurova University  | [CEN116](https://github.com/Berkantagur/Questions-and-Solutions-of-Programming-Lectures/tree/main/Cukurova%20University/CEN116) | 2               | 2             | [@Berkantagur](https://github.com/Berkantagur) |
+| Cukurova University  | [CEN116](https://github.com/Berkantagur/Questions-and-Solutions-of-Programming-Lectures/tree/main/Cukurova%20University/CEN116) | 3               | 3             | [@Berkantagur](https://github.com/Berkantagur) || Cukurova University  | [CEN116](https://github.com/Berkantagur/Questions-and-Solutions-of-Programming-Lectures/tree/main/Cukurova%20University/CEN116) | 3               | 3             | [@Berkantagur](https://github.com/Berkantagur) |
 
 
 ## How to Contribute
