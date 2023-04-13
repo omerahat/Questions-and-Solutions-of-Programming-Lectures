@@ -1,0 +1,5 @@
+1.
+    Please enter a character: B
+
+2.
+    Please enter a character: b
