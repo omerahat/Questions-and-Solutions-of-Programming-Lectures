@@ -5,7 +5,7 @@ English | [Türkçe](https://github.com/omerahat/Solitions/blob/master/readmetr.
 
 <a id="top-page"></a>
 [![Owner](https://img.shields.io/badge/owner-omerahat-red)](https://github.com/omerahat)
-[![Contact](https://img.shields.io/badge/contact-linkedin-blue)](https://www.linkedin.com/in/%C3%B6mer-ahat-87807317a/)
+[![Contact](https://img.shields.io/badge/contact-linkedin-blue)](https://www.linkedin.com/in/omerahat/)
 
 
 #### PLEASE 🙏
